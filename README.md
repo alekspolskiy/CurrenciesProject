@@ -7,7 +7,7 @@ make docker-build-local
 ```
 After backend builded go to CurrenciesProject/frontend and run:
 ```
-nom install
+npm install
 ```
 And finally:
 ```
