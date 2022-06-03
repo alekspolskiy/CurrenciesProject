@@ -1,5 +1,5 @@
 docker-build-local:
-	docker-compose --env-file .env up --build
+	docker-compose --env-file .env up -d --build
 
 docker-up-local:
 	docker-compose up
