@@ -40,7 +40,7 @@ curl -v -X GET "http://localhost:8000/api/v1/currency/list"
     "size": 50
 }
 ```
-### Get currencies prices history
+### Get currencies price history
 GET: /api/v1/currency/history
 #### Request Example:
 ```
